@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: ashzhenjia@hotmail.com 
 &nbsp;&nbsp; 📲 +65 
-&nbsp;&nbsp; 🇸🇬
+&nbsp;&nbsp; Singaporean
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/evan-mah-264b9b127/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](NONE)
 <!-- CONTACT Section Ends -->
