@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-<img src="Picture/Selfie-1.JPG" width="250" >
+<img src="Selfie/Selfie-1.JPG" width="250" >
 
 <!-- Add your details -->
 
