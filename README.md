@@ -32,7 +32,7 @@ I am __Evan Mah__, currently a learner with RISE BCG.
 <!-- Add your details -->
 ##### Popular Holding Limited
 Merchandising Executive, English Book (Adult & Young Adult Fiction) <br>
-March 2020 - October 2020
+March 2020 - October 2020 <br>
 
 
 Experience....
@@ -40,11 +40,11 @@ Experience....
 
 ##### Bata Shoe Private Limited
 Open to Buy Executive <br>
-July 2018 - November 2019
+July 2018 - November 2019 <br>
 Experience....
 
 Merchandiser (Men & Children) <br>
-June 2017 - June 2018
+June 2017 - June 2018 <br>
 Experience....
 
 
@@ -61,7 +61,7 @@ April 2021 to October 2021
 
 SGUP-CT: Rapid and Immersive Skill Enhancement (RISE) by DigitalBCG Academy.
 - Business & Data Analytics
-### Achievement
+(Achievement)
 Mini Project 1 (Power BI), Top 2
 
 ##### University of Newcastle, Australia
