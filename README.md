@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/YuriEvan/Photo/blob/496ed66d5e09143d808881cbe684f418f50bedfb/Selfie/Selfie-1.JPG)
+![alt text](https://github.com/YuriEvan/Photo/blob/496ed66d5e09143d808881cbe684f418f50bedfb/Selfie/Selfie%50-1.JPG)
 <img src="Selfie/Selfie-1.JPG" width="250" >
 
 <!-- Add your details -->
