@@ -114,6 +114,12 @@ I am part of BDA track on BCG RISE PROJECT
 RISE by DigitalBCG Academy
 
 ##### Achievements
-Over Achiever at FF Classes
+
+Completion of BCG RISE <br>
+[Click here to view E-Cert](https://www.credly.com/badges/106c11b3-d7ee-4208-985b-79bc29abe892/public_url)
+
+Our Team came in Top 2 for this _Mini Group Project 1_ <br>
+[Click here to view the badge](https://www.credly.com/badges/6785ca33-25fe-4782-ba36-1c4ee530864d/public_url)
+
 
 <!-- FEATURED Section Ends -->
