@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/YuriEvan/Evan-Mah-Profile/blob/main/Picture/Selfie-1.JPG
+![alt text](https://github.com/YuriEvan/Evan-Mah-Profile/blob/main/Picture/Selfie-1.JPG)
 <img src="images/Japan Plant.JPG" width="500" >
 
 <!-- Add your details -->
