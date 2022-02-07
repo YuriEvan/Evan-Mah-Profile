@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-<img src="YuriEvan/PhotoSelfie/Selfie-1.JPG" width="250" >
+<img src="YuriEvan/Photo/Selfie/Selfie-1.JPG" width="250" >
 
 <!-- Add your details -->
 
