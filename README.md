@@ -149,11 +149,11 @@ PSB Academy <br>
 
 ##### Achievements
 
-_BCG RISE Project_
+_BCG RISE Project_ <br>
 Our Team came in Top 2 for this _Mini Group Project 1_ <br>
 [Click here to view the badge](https://www.credly.com/badges/6785ca33-25fe-4782-ba36-1c4ee530864d/public_url)
 
-_National Service Awards_
+_National Service Awards_ <br>
 Good Performance <br>
 [Click here to view image](https://imgur.com/xJ1GxNn) 
 
