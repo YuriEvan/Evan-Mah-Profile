@@ -35,18 +35,37 @@ I am __Evan Mah__, currently a learner with RISE BCG.
 Merchandising Executive, English Book (Adult & Young Adult Fiction) <br>
 March 2020 - October 2020 <br>
 
-
-Experience....
+•	Purchased of monthly new Fiction books, Young Adult books and replenishment. <br>
+•	Processed purchase orders and liaise with suppliers on the delivery of stocks to reach stores on time. <br>
+•	Prepared sales reports and presentations for monthly management meeting. <br>
+•	Updated monthly sell through report, monitor stock inventory, replenishment and stock aging report. <br>
+•	Strengthened all aspects of category management, promotional activities, market trends and business plans by working closely with the Merchandising Manager. <br>
+•	Communicated with stores on daily merchandising and administrative tasks. <br>
+•	Conducted regular store visit to make sure that store layout is to be in-line with company’s merchandising standards. <br>
+•	Coordinated the design, printing and distribution of marketing collateral, ensuring that each promotional tool aligned with the overall business strategy. <br>
 
 
 ##### Bata Shoe Private Limited
 Open to Buy Executive <br>
 July 2018 - November 2019 <br>
-Experience....
+
+•	Generated weekly, monthly and quarterly closing reports to 4 departments and management. <br>
+•	Compiled all templates and documentations of sales, turnover (Month-To-Date and Year-To-Date), inventory, forecast and estimations figures to higher management on weekly, monthly and quarterly basis. <br>
+•	Monitored inventory level across all categories for footwear and non-footwear so as to reduce overstock. <br>
+•	Facilitated with Merchandising Manager and Collection Managers in regards to the sufficient stock availability through the season base on the forecast. <br>
+•	Recommended quantity to Collection Managers on the new season budget and percentage for footwear and non-footwear. <br>
+•	Reviewed on individual category and make recommendations to improve the quality of manual quantification. <br>
+•	Screened daily, weekly and monthly figures in the system (RIMS) to be in-line with reports send out by the IT Department. <br>
 
 Merchandiser (Men & Children) <br>
 June 2017 - June 2018 <br>
-Experience....
+
+•	Analysed the sales and stock pattern in the database. <br>
+•	Produced all necessary inventory, sales and stocks data as required by management from time to time. <br>
+•	Scheduled new shipment arrives and dispatch the stocks to the stores as soon as possible. <br>
+•	Informed those retail stores which did not pack-out stock for weekly stock transferring from store to store. <br>
+•	Guided the retail operation team on the stores presentation which are to be in line with the company’s policy. <br>
+•	Performed stores visit on a weekly and/or monthly basis. <br>
 
 
 <!-- EXPERIENCE Section Ends -->
