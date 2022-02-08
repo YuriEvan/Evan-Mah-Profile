@@ -144,7 +144,7 @@ RISE by DigitalBCG Academy <br>
 [Click here to view E-Cert](https://www.credly.com/badges/106c11b3-d7ee-4208-985b-79bc29abe892/public_url)
 
 University of Newcastle
-[Click here to view image](https://www.credly.co) 'upload to photo file and copy link here'
+[Click here to view image](https://github.com/YuriEvan/Photo/blob/main/Certs/Bachelor%20of%20Business_Zhen%20Jia%20Mah.pdf)
 
 PSB Academy
 [Click here to view image](https://www.cre) 'upload to photo file and copy link here'
