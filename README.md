@@ -103,8 +103,17 @@ Regression is a supervised learning technique which helps in finding the correla
 
 #### BCG RISE PROJECT
 
-I am part of BDA track on BCG RISE PROJECT
-[For more details refer to this link](https://bcg.com)
+I am part of Business Data Analytic (BDA-06) track on BCG RISE PROJECT
+
+Mini-Project-1 (Power BI) <br>
+[Click here to view the project](https://github.com/YuriEvan/Mini-Project-1/blob/main/README.md)
+
+Mini-Project-2 (Statistical Analysis, using Python) <br>
+[Click here to view the project](https://github.com/YuriEvan/Mini-Project-2/blob/main/README.md)
+
+Mini-Project-3 (Machine Learning, using Python) <br>
+[Click here to view the project](https://github.com/YuriEvan/Mini-Project-3/blob/main/README.md)
+
 
 <!-- PROJECTS Section Ends -->
 
