@@ -61,8 +61,8 @@ Trainee, Business & Analytics <br>
 April 2021 to October 2021
 
 SGUP-CT: Rapid and Immersive Skill Enhancement (RISE) by DigitalBCG Academy.
-- Business & Data Analytics
-Curriculum
+_Business & Data Analytics_
+Curriculum <br>
 - Python programming basics (top skills demanded by employers)
 - SQL (top skills demanded by employers)
 - Business intelligence (linking business & analytics)
