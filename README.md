@@ -62,8 +62,23 @@ April 2021 to October 2021
 
 SGUP-CT: Rapid and Immersive Skill Enhancement (RISE) by DigitalBCG Academy.
 - Business & Data Analytics
-(Achievement)
-Mini Project 1 (Power BI), Top 2
+Curriculum
+- Python programming basics (top skills demanded by employers)
+- SQL (top skills demanded by employers)
+- Business intelligence (linking business & analytics)
+- Working with databases
+- Data visualisation using PowerBI (preferred visualisation tool in industry)
+- Dashboard design
+- Statistical analysis & regressions
+- Machine learning algorithms
+- Structured problem solving (learn from BCG toolkit)
+- Building a business case (learn from BCG toolkit)
+- Story-lining, presentation & communication (learn from BCG toolkit)
+- Human – centered design
+- Digital use case and lifecycle
+- Business excel modelling
+- Design thinking
+- Agile (new ways of working in digital teams)
 
 ##### University of Newcastle, Australia
 Bachelor of Business, Majors in Marketing & Management, August 2014 - December 2016
@@ -125,12 +140,19 @@ Mini-Project-3 (Machine Learning, using Python) <br>
 RISE by DigitalBCG Academy <br>
 [Click here to view E-Cert](https://www.credly.com/badges/106c11b3-d7ee-4208-985b-79bc29abe892/public_url)
 
+University of Newcastle
+[Click here to view image](https://www.credly.co) 'upload to photo file and copy link here'
+
+PSB Academy
+[Click here to view image](https://www.cre) 'upload to photo file and copy link here'
+
+
 ##### Achievements
-
-
 
 Our Team came in Top 2 for this _Mini Group Project 1_ <br>
 [Click here to view the badge](https://www.credly.com/badges/6785ca33-25fe-4782-ba36-1c4ee530864d/public_url)
 
+National Service Awards
+[Click here to view image](https://www.credly.co) 'upload to photo file and copy link here'
 
 <!-- FEATURED Section Ends -->
