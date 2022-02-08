@@ -60,8 +60,9 @@ Experience....
 Trainee, Business & Analytics <br>
 April 2021 to October 2021
 
-SGUP-CT: Rapid and Immersive Skill Enhancement (RISE) by DigitalBCG Academy.
-_Business & Data Analytics_
+SGUP-CT: Rapid and Immersive Skill Enhancement (RISE) by DigitalBCG Academy. <br>
+_Business & Data Analytics_ <br>
+
 Curriculum <br>
 - Python programming basics (top skills demanded by employers)
 - SQL (top skills demanded by employers)
@@ -81,10 +82,12 @@ Curriculum <br>
 - Agile (new ways of working in digital teams)
 
 ##### University of Newcastle, Australia
-Bachelor of Business, Majors in Marketing & Management, August 2014 - December 2016
+Bachelor of Business, Majors in Marketing & Management <br>
+August 2014 - December 2016
 
 ##### PSB Academy, Singapore
-Diploma in Business Adminstration, April 2010 - August 2011
+Diploma in Business Adminstration <br> 
+April 2010 - August 2011
 
 <!-- EDUCATION Section Ends -->
 
