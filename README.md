@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Evan Mah__, 29 this year. I have completed Business & Data Analytics with BCG RISE in Oct 2021. Currently I am looking out for junior data/business anaylst job, where I can apply new skills and knowledge learnt in the BCG RISE into the new role.
+I am __Evan Mah__, 29 this year. I have completed Business & Data Analytics with BCG RISE in Oct 2021. Currently I am looking out for junior data/business analyst job, where I can apply new skills and knowledge learnt in the BCG RISE into the new role.
 
 
 
