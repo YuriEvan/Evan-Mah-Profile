@@ -6,7 +6,6 @@
 &nbsp;&nbsp; 📲 +65 
 &nbsp;&nbsp; Singaporean
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/evan-mah-264b9b127/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](NONE)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -141,19 +140,24 @@ Mini-Project-3 (Machine Learning, using Python) <br>
 RISE by DigitalBCG Academy <br>
 [Click here to view E-Cert](https://www.credly.com/badges/106c11b3-d7ee-4208-985b-79bc29abe892/public_url)
 
-University of Newcastle
-[Click here to view image](https://imgur.com/a/CUI0iXI)
+University of Newcastle <br>
+[Click here to view image](https://imgur.com/a/csgjHzF)
 
-PSB Academy
-[Click here to view image](https://www.cre) 'upload to photo file and copy link here'
+PSB Academy <br>
+[Click here to view image](https://imgur.com/9tXMVVb)
 
 
 ##### Achievements
 
+_BCG RISE Project_
 Our Team came in Top 2 for this _Mini Group Project 1_ <br>
 [Click here to view the badge](https://www.credly.com/badges/6785ca33-25fe-4782-ba36-1c4ee530864d/public_url)
 
-National Service Awards
-[Click here to view image](https://www.credly.co) 'upload to photo file and copy link here'
+_National Service Awards_
+Good Performance <br>
+[Click here to view image](https://imgur.com/xJ1GxNn) 
+
+Perfect Attendance <br>
+[Click here to view image](https://imgur.com/PdQvFbI) 
 
 <!-- FEATURED Section Ends -->
