@@ -32,7 +32,7 @@ I am __Evan Mah__, currently a learner with RISE BCG.
 ### EXPERIENCE
 <!-- Add your details -->
 ##### Popular Holding Limited
-Merchandising Executive, English Book (Adult & Young Adult Fiction) <br>
+_Merchandising Executive, English Book (Adult & Young Adult Fiction)_ <br>
 March 2020 - October 2020 <br>
 
 •	Purchased of monthly new Fiction books, Young Adult books and replenishment. <br>
@@ -46,7 +46,7 @@ March 2020 - October 2020 <br>
 
 
 ##### Bata Shoe Private Limited
-Open to Buy Executive <br>
+_Open to Buy Executive_ <br>
 July 2018 - November 2019 <br>
 
 •	Generated weekly, monthly and quarterly closing reports to 4 departments and management. <br>
@@ -57,7 +57,7 @@ July 2018 - November 2019 <br>
 •	Reviewed on individual category and make recommendations to improve the quality of manual quantification. <br>
 •	Screened daily, weekly and monthly figures in the system (RIMS) to be in-line with reports send out by the IT Department. <br>
 
-Merchandiser (Men & Children) <br>
+_Merchandiser (Men & Children)_ <br>
 June 2017 - June 2018 <br>
 
 •	Analysed the sales and stock pattern in the database. <br>
@@ -117,14 +117,9 @@ April 2010 - August 2011
 ### PROJECTS
 <!-- Add your details -->
 
-
-[BCG RISE PROJECT](#BCG-RISE-PROJECT) <br>
-
-<!-- Add your details -->
-
 #### BCG RISE PROJECT
 
-I am part of Business Data Analytic (BDA-06) track on BCG RISE PROJECT
+I am part of Business Data Analytic track (BDA-06) for the BCG RISE PROJECT
 
 Mini-Project-1 (Power BI) <br>
 [Click here to view the project](https://github.com/YuriEvan/Mini-Project-1/blob/main/README.md)
