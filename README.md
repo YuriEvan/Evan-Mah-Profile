@@ -98,26 +98,10 @@ April 2010 - August 2011
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+
 [BCG RISE PROJECT](#BCG-RISE-PROJECT) <br>
 
 <!-- Add your details -->
-
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
-
 
 #### BCG RISE PROJECT
 
@@ -132,8 +116,8 @@ Mini-Project-2 (Statistical Analysis, using Python) <br>
 Mini-Project-3 (Machine Learning, using Python) <br>
 [Click here to view the project](https://github.com/YuriEvan/Mini-Project-3/blob/main/README.md)
 
-
 <!-- PROJECTS Section Ends -->
+
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
