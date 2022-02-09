@@ -35,27 +35,31 @@ I am __Evan Mah__, 29 this year. I have completed Business & Data Analytics with
 _Merchandising Executive, English Book (Adult & Young Adult Fiction)_ <br>
 March 2020 - October 2020 <br>
 
-•	Purchased of monthly new Fiction books, Young Adult books and replenishment. <br>
-•	Processed purchase orders and liaise with suppliers on the delivery of stocks to reach stores on time. <br>
-•	Prepared sales reports and presentations for monthly management meeting. <br>
-•	Updated monthly sell through report, monitor stock inventory, replenishment and stock aging report. <br>
+•	Purchased of monthly new Fiction and Young Adult books. <br>
+•	Researched and identified local and/or international sources to help in the buying process and execution of products. <br>
+•	Analysed Fiction and Young Adult category sales to highlight growth opportunities. <br>
+•	Conducted bi-weekly and monthly analysis of sales trends to understand customer purchasing behaviour and determine product exit or enhancement strategies. <br>
+•	Evaluated the sales floor and analysed retail stores for weekly and monthly reporting. <br>
+•	Executed and follow-up on daily replenishment to ensure fast-moving products are sufficient stocked in all stores. <br>
+•	Coordinated with suppliers and Marketing department to distribute marketing collateral, design and printing. <br>
 •	Strengthened all aspects of category management, promotional activities, market trends and business plans by working closely with the Merchandising Manager. <br>
 •	Communicated with stores on daily merchandising and administrative tasks. <br>
-•	Conducted regular store visit to make sure that store layout is to be in-line with company’s merchandising standards. <br>
-•	Coordinated the design, printing and distribution of marketing collateral, ensuring that each promotional tool aligned with the overall business strategy. <br>
-
 
 ##### Bata Shoe Private Limited
 _Open to Buy Executive_ <br>
 July 2018 - November 2019 <br>
 
 •	Generated weekly, monthly and quarterly closing reports to 4 departments and management. <br>
-•	Compiled all templates and documentations of sales, turnover (Month-To-Date and Year-To-Date), inventory, forecast and estimations figures to higher management on weekly, monthly and quarterly basis. <br>
+•	Reviewed general data quality and data cleaning before proceeding on to data analysis. <br>
+•	Developed and maintained sales reports to provide actionable insights that support data-driven decision-making for the buying and management teams. <br>
 •	Monitored inventory level across all categories for footwear and non-footwear so as to reduce overstock. <br>
 •	Facilitated with Merchandising Manager and Collection Managers in regards to the sufficient stock availability through the season base on the forecast. <br>
 •	Recommended quantity to Collection Managers on the new season budget and percentage for footwear and non-footwear. <br>
 •	Reviewed on individual category and make recommendations to improve the quality of manual quantification. <br>
 •	Screened daily, weekly and monthly figures in the system (RIMS) to be in-line with reports send out by the IT Department. <br>
+
+
+
 
 _Merchandiser (Men & Children)_ <br>
 June 2017 - June 2018 <br>
